@@ -7,3 +7,5 @@ Langkah - Langkah :
 2) Menentukan Jumlah dan Nama Linguistik Setiap Atribut
 
 3) Menentukan Batas dan Fungsi Keanggotaan
+
+4) Aturan Inferensi
