@@ -1,11 +1,23 @@
 # Tupro_Fuzzy
 
-Langkah - Langkah :
+Dalam Program :
 
 1) Membaca Data
 
-2) Menentukan Jumlah dan Nama Linguistik Setiap Atribut
+2) Fuzzification
 
-3) Menentukan Batas dan Fungsi Keanggotaan
+3) Defuzzification
 
-4) Aturan Inferensi
+4) Output ke File
+
+Langkah - Langkah :
+
+1) Jumlah dan Nama Linguistik Setiap Atribut Input
+
+2) Bentuk dan Batas Fungsi Keanggotaan Input
+
+3) Aturan Inferensi
+
+4) Metode Defuzzification
+
+5) Bentuk dan Batas Fungsi Keanggotaan Output (sesuai metode Defuzzification)
