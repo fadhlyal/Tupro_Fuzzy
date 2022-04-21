@@ -43,4 +43,12 @@ Langkah - Langkah :
 
 4) Metode Defuzzification
 
+        1) Model Sugeno  (Metode yang dipilih)
+        2) Model Mamdani (x)
+
 5) Bentuk dan Batas Fungsi Keanggotaan Output (sesuai metode Defuzzification)
+
+        Menggunakan model sugeno dengan batasan :
+        1) Buruk [25]
+        2) Biasa [50]
+        3) Bagus [75]
