@@ -20,10 +20,10 @@ Langkah - Langkah :
         3) Mahal  (a = 6, b = 7)
 
         Fuzzy set untuk kategoti "Servis" rentang [1,100] :
-        1) Buruk        (c = , d = )
-        2) Biasa        (a = , b = , c = 45, d = 55)
-        3) Bagus        (a = 45, b = 55, c = , d = )
-        4) Sangat Bagus (a = , b = )
+        1) Buruk        (c = 15, d = 25)
+        2) Biasa        (a = 15, b = 25, c = 45, d = 55)
+        3) Bagus        (a = 45, b = 55, c = 75, d = 85)
+        4) Sangat Bagus (a = 75, b = 85)
 
 2) Bentuk dan Batas Fungsi Keanggotaan Input
 
