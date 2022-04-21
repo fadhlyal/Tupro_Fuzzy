@@ -36,6 +36,11 @@ Langkah - Langkah :
 
 3) Aturan Inferensi
 
+        Dengan kombinasi yang ada kami mengelompokkan dalam 3 kategori :
+        1) Buruk : (Buruk & Mahal), (Buruk & Sedang), (Biasa & Mahal)
+        2) Biasa : (Sangat Bagus & Mahal), (Buruk & Murah), (Biasa & Sedang), (Biasa & Murah), (Bagus & Mahal), (Bagus & Sedang)
+        3) Bagus : (Sangat Bagus & Murah), (Sangat Bagus & Sedang), (Bagus & Murah)
+
 4) Metode Defuzzification
 
 5) Bentuk dan Batas Fungsi Keanggotaan Output (sesuai metode Defuzzification)
