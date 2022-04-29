@@ -20,13 +20,13 @@ Langkah - Langkah :
 2) Bentuk dan Batas Fungsi Keanggotaan Input
 
         Bentuk untuk Fuzzy Set : 
-        1) Bentuk Trapesium 
+        1) Bentuk Trapesium. (((x-d)/(d-c))*(-1)) dan (x-a)/(b-a)
         2) Bentuk Segitiga.
 
         Fuzzy set untuk kategori "Harga" rentang [1,10] :
-        1) Murah  (c = 3, d = 4)
+        1) Murah  (c = 3, d = 5)
         2) Sedang (a = 3, b = 5, c = 7)
-        3) Mahal  (a = 6, b = 7)
+        3) Mahal  (a = 5, b = 7)
 
         Fuzzy set untuk kategoti "Servis" rentang [1,100] :
         1) Buruk        (c = 15, d = 25)
